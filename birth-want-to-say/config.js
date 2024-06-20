@@ -4,16 +4,14 @@ var config = {
     // 每句话尽量不要超过15个字,不然展示效果可能不太好
     texts: [
         "送给我",      //这里,每句话结尾的最后一个逗号必须是英文的哦!! 很重要哦!!
-        "心爱的姑娘",  // 同上...
+        "心爱的粒宝",  // 同上...
         "今天是你的生日",
         "这是我们在一起的",
-        "第三个生日！",
-        "这两年来，我见过你",
-        "奇怪的样子",
+        "第一个生日！",
+        "我见过你",
         "可爱的样子",
         "生气的样子",
         "都是我喜欢的样子",
-        "对了，礼物收全了吗？",
         "今年要吃好好的",
         "喂饱饱的",
         "然后才有力气干活",
@@ -31,16 +29,14 @@ var config = {
      */
     imgs: {
         "送给我": "./imgs/songxinxin.jpeg",
-        "心爱的姑娘": "./imgs/nothing.jpg",
+        "心爱的粒宝": "https://github.com/lwjjwjqsq/lwj.github.io/assets/95521005/a29503d9-a87d-489c-be0c-a200a7f1daeb",
         "今天是你的生日": "./imgs/shengri.jpeg",
         "这是我们在一起的": "./imgs/zaiyiqi.png",
-        "第三个生日！": "./imgs/nothing.jpg",
-        "这两年来，我见过你": "./imgs/yangzi.jpeg",
-        "奇怪的样子": "./imgs/nothing.jpg",
+        "第一个生日！": "./imgs/nothing.jpg",
+        "我见过你": "./imgs/yangzi.jpeg",
         "可爱的样子": "./imgs/nothing.jpg",
         "生气的样子": "./imgs/nothing.jpg",
         "都是我喜欢的样子": "./imgs/nothing.jpg",
-        "对了，礼物收全了吗？": "./imgs/chuo.gif",
         "今年要吃好好的": "./imgs/chihaodian.jpeg",
         "喂饱饱的": "./imgs/weibao.jpeg",
         "然后才有力气干活": "./imgs/nothing.jpg",
@@ -61,5 +57,5 @@ var config = {
     },
 
     // 结束语
-    loveText: '爱你的X先生~'
+    loveText: '爱你的梁先生~'
 };
